@@ -1,6 +1,6 @@
 # Awards
 
--[View Award](awards/GCC_Champ.jpeg)
+[View Award](awards/GCC_Champ.jpeg)
 ## TransUnion – GCC Champ Award
 
 **2022**
@@ -9,7 +9,7 @@
 - Recognised for maintaining low defect leakage, ensuring smooth production releases, and supporting cross team delivery efforts.
 
 ---
--[View Award](awards/Best_Performer_Q3_2021.jpeg)
+[View Award](awards/Best_Performer_Q3_2021.jpeg)
 ## TransUnion – Best Performer Q3 2021 
 
 **2021**
