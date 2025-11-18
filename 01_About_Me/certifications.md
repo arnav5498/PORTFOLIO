@@ -1,4 +1,7 @@
 # Certifications
 
-## PSPO-I — Scrum.org  
+## Professional Scrum Product Owner I — Scrum.org  
 [View Certificate](certificates/PSPO-I.pdf)
+
+## Agile with Atlassian Jira — Atlassian
+[View Certificate](certificates/Agile_with_Jira_Atlassian.pdf)
