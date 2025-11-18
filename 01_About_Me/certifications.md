@@ -1,3 +1,4 @@
 # Certifications
 
-This file will contain my certification list and links to uploaded PDFs.
+## PSPO-I — Scrum.org  
+[View Certificate](../certificates/PSPO-I.pdf)
