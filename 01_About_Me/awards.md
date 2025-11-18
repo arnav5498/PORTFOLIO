@@ -7,7 +7,7 @@
 
 - Received Delivery Excellence Awards for consistent contribution, high quality releases, and strong collaboration during major delivery cycles in the Business System Evolution programme.  
 - Recognised for maintaining low defect leakage, ensuring smooth production releases, and supporting cross team delivery efforts.
----
+
 [View Award](awards/GCC_Champ.jpeg)
 
 ---
@@ -19,5 +19,4 @@
 - Acknowledged for quality validation and backend support during the large scale Consumer and Mortgage data migration.  
 - Recognised for validating more than ten million records with zero data loss during the programme rollout.
 
----
 [View Award](awards/Best_Performer_Q3_2021.jpeg)
