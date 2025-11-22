@@ -9,5 +9,3 @@ Each case study breaks down:
 • Insights and decisions  
 • Final outcome
 
-First case study will be:  
-**Module 1 – Enterprise Product Management Fundamentals**
