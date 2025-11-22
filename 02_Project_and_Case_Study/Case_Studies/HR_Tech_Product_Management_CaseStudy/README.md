@@ -1,5 +1,5 @@
-#SynergyHR – Product Development Process Case Study#
-
+**SynergyHR – Enterprise Product Development Case Study**
+*Applying Microsoft-First Product Management to Build a Cloud-Based HR Platform*
 
 
 This case study explores how I applied enterprise PM fundamentals to a real scenario at a fictional company, Innovate Inc. It covers:
